@@ -41,3 +41,17 @@
     width: 100%;
     height: 100%;
 }
+.purple-square-container {
+    height: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: white;
+    width: 30%;
+   height: 300px;
+   border-radius: 5px;
+   margin-left: -2px;
+  }
+  .container{
+      background-color:rgb(250, 250, 250) ;
+  }
