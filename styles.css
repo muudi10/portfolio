@@ -15,7 +15,7 @@
     width: 100%;
     height: 617px;
     background-size:cover;
-    bac
+    
 }
 
 .border-3 {
@@ -61,8 +61,13 @@
   @media (max-width: 576.98px) { 
       
     .purple-square-container{
-        width: 40%;
+        width: 35%;
         height: 150px;
+        margin-left: -1px;
+        font-size: 2rem;
+    }
+    .hero-fluid{
+        height: 350px;
     }
 
 
